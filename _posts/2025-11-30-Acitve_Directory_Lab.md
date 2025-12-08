@@ -2,9 +2,9 @@
 title: "Xây dựng lab Active Directory và thực hành các scenerios attack đơn giản"
 date: 2025-11-30 12:00:00 +0700
 categories: [Homelab, Security]
-tags: [active-directory, windows-server, lab, qemu]
+tags: [active-directory, windows-server, lab, qemu, Net-NTLM]
 image:
-  path: /assets/img/posts/Active_Directory_Lab/image.png
+  path: /assets/img/posts/Active_Directory_Lab/image-34.png
   alt: Active Directory Lab
 ---
 
