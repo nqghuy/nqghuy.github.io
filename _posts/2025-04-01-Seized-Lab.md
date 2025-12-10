@@ -71,7 +71,7 @@ Trong đó link này có 0 star
 
 ![image.png](/assets/img/posts/Seized-Lab/image%203.png)
 
-File [snapshot.py](http://snapshot.py) có thanh ngang dài bất thường
+File `http://snapshot.py` có thanh ngang dài bất thường
 
 ![image.png](/assets/img/posts/Seized-Lab/image%204.png)
 

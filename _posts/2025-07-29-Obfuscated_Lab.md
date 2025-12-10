@@ -229,7 +229,7 @@ Hai vòng lặp đầu thực hiện **Key Scheduling Algorithm** của RC4, tr�
 
 ## Q18: What is the name of the first function defined in the deobfuscated code?
 
-![Deobfuscated code](../assets/img/posts/Obfuscated_Lab/image-1.png)
+![Deobfuscated code](../assets/img/posts/Obfuscated_Lab/image.png)
 
 *[Xem ảnh để xác định tên hàm đầu tiên]*
 

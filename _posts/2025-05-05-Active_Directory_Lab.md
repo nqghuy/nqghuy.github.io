@@ -40,7 +40,7 @@ quickget --create-config windows-server-2022 ./SERVER_EVAL_x64FRE_en-us.iso
 quickemu --vm windows-server-2022.conf
 ```
 Để thuận tiện, minh sẽ dùng virt-manager
-![](/assets/img/posts/Active_Directory_Lab/image-1.png)
+![](/assets/img/posts/Active_Directory_Lab/image.png)
 ![](/assets/img/posts/Active_Directory_Lab/image-2.png)
 ![](/assets/img/posts/Active_Directory_Lab/image-3.png)
 
