@@ -14,12 +14,11 @@ timezone: Asia/Saigon
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Homelab Docs # the main title
+title: Quang Huy # Hoặc ghi tắt: NQG Huy
+tagline: A simple personal blog for sharing notes and write-ups.
+description: >-                   # Meta description (SEO + RSS feed)
+  A simple personal blog for sharing notes and write-ups.
 
-tagline: A documentation site for Homelab enthusiasts # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A doc site for my homelab
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

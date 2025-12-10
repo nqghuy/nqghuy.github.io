@@ -11,7 +11,7 @@ image:
 # PART 1
 Đầu tiên, ta đi dạo 1 vòng các file. Ta thấy có 1 thư mục cv, 1 file winrar.exe,... có thể là đáng nghi. Ta sẽ phân tích file cv do file exe check trên VirusTotal là liêm.
 
-![alt text](../assets/img/posts/Another_day/image.png)
+![alt text](../assets/img/posts/Another_day/image-1.png)
 
 Chạy `exiftool` với 2 file `cv`
 ```

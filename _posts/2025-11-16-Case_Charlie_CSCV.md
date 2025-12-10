@@ -1,5 +1,5 @@
 ---
-title: "CSCV - Case Charlie (Hard)"
+title: "CSCV - Case Charlie"
 date: 2025-11-16 12:00:00 +0700
 categories: [CTF, Digital Forensics]
 tags: [forensics, disk-imaging, cscv]
