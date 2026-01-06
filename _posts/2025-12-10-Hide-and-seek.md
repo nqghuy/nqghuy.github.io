@@ -10,7 +10,6 @@ image:
 ---
 ## Giới thiệu
 Đây là 1 thử thách forensics ctf đến từ WannaGame. Theo mình thì giải này khá là khó. 
-| I just searched and downloaded some files, but I found some suspicious process created. Please help me find out.
 ## [1]. What id MITRE ID for initial access? (TXXXX.XXX)
 Đầu tiên, mình sẽ kiểm tra browser log của nạn nhân
 ```
